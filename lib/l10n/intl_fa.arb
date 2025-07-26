@@ -1,0 +1,16 @@
+{
+  "@@locale": "fa",
+  "welcomeMessage": "به برنامه ما خوش آمدید!",
+  "homeTitle": "خانه",
+  "settingsTitle": "تنظیمات",
+  "display": "نمایش",
+  "darkTheme": "تم تاریک",
+  "fontSize": "اندازه فونت",
+  "language": "زبان",
+  "notifications": "اعلان‌ها",
+  "newContentNotifications": "اعلان‌های محتوای جدید",
+  "small": "کوچک",
+  "medium": "متوسط",
+  "large": "بزرگ",
+  "extraLarge": "خیلی بزرگ"
+}

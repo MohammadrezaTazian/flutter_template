@@ -1,0 +1,16 @@
+{
+  "@@locale": "en",
+  "welcomeMessage": "Welcome to our application!",
+  "homeTitle": "Home",
+  "settingsTitle": "Settings",
+  "display": "Display",
+  "darkTheme": "Dark Theme",
+  "fontSize": "Font Size",
+  "language": "Language",
+  "notifications": "Notifications",
+  "newContentNotifications": "New content notifications",
+  "small": "Small",
+  "medium": "Medium",
+  "large": "Large",
+  "extraLarge": "Extra Large"
+}
